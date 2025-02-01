@@ -28,9 +28,9 @@ https://www.keyboard-layout-editor.com
 
 ![plate](/assets/spacebar.png)
 
-For the matrix i use https://kbfirmware.com/. The tool itself is outdated, but still usefull to get a idea how to setup the wireing.
+For the matrix i use https://kbfirmware.com/. The tool itself is outdated, but still usefull to get a idea how to setup the wiring.
 
-![wireing](/assets/wireing.jpg)
+![wiring](/assets/wiring.jpg)
 
 This how i planned to connect to the mcu. 
 ![mcu](/assets/MCUConnections.png)
