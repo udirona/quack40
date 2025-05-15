@@ -51,7 +51,7 @@ The provided source and firmware contains the planned way/code.
 
 There is a guide on https://docs.qmk.fm/hand_wire how to perepare the cables.
 
-![wireing](/assets/wireing_plate.png)
+![wiring](/assets/wiring_plate.png)
 
 # Firmware
 
